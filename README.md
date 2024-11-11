@@ -1,6 +1,5 @@
 ## Modeling Energy Price Fluctuations Impact on Industrial Electricity Prices ——— MEPFIEP
 
-### 先期方案 (VAN)
 
 
 
